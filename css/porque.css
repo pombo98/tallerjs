@@ -1,0 +1,102 @@
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    }
+    
+    li{
+        float: left;
+    }
+    
+    li a{
+        display: block;
+    
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    li a:hover{
+    
+        background-color: #111;
+        
+    }
+    
+
+    .t1{
+        background-color: #71ec0c;
+        max-width: 1500px;
+        padding: 50px;
+        margin: 0 auto;
+        color: green
+    }    
+
+    body{
+
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    
+    }
+
+    .f1{
+
+        max-width: 1300px;
+        min-height: 180px;
+        background: yellowgreen;
+        color: black;
+        margin: 0 auto;
+        
+    }
+
+    p{
+        border 2px solid;
+        margin: 20px;
+      }
+
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      th, td {
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even){background-color: #f2f2f2
+    }
+      
+      th {
+        background-color: #71ec0c;
+        color: white;
+      }
+
+      footer{
+
+        max-width: 1500px;
+        min-height: 130px;
+        background: yellowgreen;
+        margin: 0 auto;
+        border-radius: 0 0 0px 0px;
+        color: #fff;
+        text-align: center;
+        padding: 10px;  
+        box-sizing: border-box;
+        font-family: arial;
+        font-size: 14px;
+    
+    }
+
+    .fondo{
+
+        max-width: 1200px;
+        min-height: 150px;
+        background: yellowgreen;
+        color: black;
+        margin: 0 auto;
+    }
